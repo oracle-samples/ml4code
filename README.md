@@ -1,28 +1,30 @@
-*This repository acts as a template for all of Oracle’s GitHub repositories. It contains information about the guidelines for those repositories. All files and sections contained in this template are mandatory, and a GitHub app ensures alignment with these guidelines. To get started with a new repository, replace the italic paragraphs with the respective text for your project.*
+# ml4code Knowledge Base
 
-# Project name
-
-*Describe your project's features, functionality and target audience*
+This repository collects the hugo markdown files for the [ml4code knowledge base](https://oracle-samples.github.io/ml4code).
 
 ## Installation
 
-*Provide detailed step-by-step installation instructions. You can name this section **How to Run** or **Getting Started** instead of **Installation** if that's more acceptable for your project*
+To locally run the knowledge-base please execute the following steps:
+
+1. Download the latest release of [Hugo Extended](https://github.com/gohugoio/hugo/releases)
+  - macOS: `brew install hugo`
+  - Windows: `winget install Hugo.Hugo.Extended`
+2. Run `hugo server` in from the repository root
 
 ## Documentation
 
-*Developer-oriented documentation can be published on GitHub, but all product documentation must be published on <https://docs.oracle.com>*
+The subfolder `content/docs` contains markdown files with the knowledge-base content.
 
-## Examples
-
-*Describe any included examples or provide a link to a demo/tutorial*
-
-## Help
-
-*Inform users on where to get help or how to receive official support from Oracle (if applicable)*
-
-## Contributing
-
-*If your project has specific contribution requirements, update the CONTRIBUTING.md file to ensure those requirements are clearly explained*
+- `01_papers`: Collection and summaries of research papers.
+- `02_downstream`: Collection of use cases
+- `03_dataset`: Overview on publicly available source code datasets
+- `04_evaluation`: Overivew on metrics and benchmarks
+- `05_models`: Overview on models
+- `06_libraries`: Overiew on ML libraries
+- `97_articles`: Collection of web articles related to ai for source code.
+- `97_market`: Overview of available tools and companies within the ai for code domain.
+- `98_resources`: Machine Learning & Software Engineering references
+- `99_about`: Maintenance
 
 This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
 
@@ -32,13 +34,7 @@ Please consult the [security guide](./SECURITY.md) for our responsible security 
 
 ## License
 
-*The correct copyright notice format for both documentation and software is*
-    "Copyright (c) [year,] year Oracle and/or its affiliates."
-*You must include the year the content was first released (on any platform) and the most recent year in which it was revised*
-
-Copyright (c) 2023 Oracle and/or its affiliates.
-
-*Replace this statement if your project is not licensed under the UPL*
+Copyright (c) 2025 Oracle and/or its affiliates.
 
 Released under the Universal Permissive License v1.0 as shown at
 <https://oss.oracle.com/licenses/upl/>.

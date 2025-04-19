@@ -1,0 +1,15 @@
+---
+title: NLP Benchmarks
+url: nlp-benchmarks
+weight: 3
+---
+
+
+## NLP
+
+|Title|Description|Link|
+|---|---|---|
+|[MMLU](https://arxiv.org/pdf/2009.03300.pdf)|Massive Multitask Language Understanding - a benchmark designed to measure knowledge acquired during pretraining by evaluating models in zero-shot and few-shot settings across 57 diverse subjects.|[GitHub](https://github.com/hendrycks/test)|
+|[HellaSwag](https://arxiv.org/pdf/1905.07830)|A video caption segment provides an initial context for an LLM. Each context is then followed by four options for completing that context, with only one option being correct. Applies “Adversarial Filtering” (AF), a process that generates deceptive, challenging incorrect answers for a multi-choice test setting|[GitHub](https://github.com/rowanz/hellaswag)|
+|[TruthfulQA](https://arxiv.org/pdf/2109.07958)|The benchmark comprises 817 questions that span 38 categories, including health, law, finance and politics. We crafted questions that some humans would answer falsely due to a false belief or misconception. To perform well, models must avoid generating false answers learned from imitating human texts.|[GitHub](https://github.com/sylinrl/TruthfulQA)|
+|[WinoGrande](https://dl.acm.org/doi/pdf/10.1145/3474381)|273 expert-crafted pronoun resolution problems originally designed to be unsolvable for statistical models that rely on selectional preferences or word associations|[AllenAI](https://winogrande.allenai.org/)|
