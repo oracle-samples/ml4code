@@ -26,6 +26,8 @@ The subfolder `content/docs` contains markdown files with the knowledge-base con
 - `98_resources`: Machine Learning & Software Engineering references
 - `99_about`: Maintenance
 
+## Contributing
+
 This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
 
 ## Security
