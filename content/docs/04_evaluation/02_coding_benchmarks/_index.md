@@ -46,6 +46,7 @@ weight: 1
 |[SWE-bench Multimodal](https://arxiv.org/pdf/2410.03859)|SWE-bench M features 617 task instances collected from 17 JavaScript libraries used for web interface design, diagramming, data visualization, syntax highlighting, and interactive mapping. Each SWE-bench M task instance contains at least one image in its problem statement or unit tests.|[Leaderboard](https://www.swebench.com/multimodal.html), [dataset](https://huggingface.co/datasets/princeton-nlp/SWE-bench_Multimodal)|
 |[SWE-Lancer](https://arxiv.org/abs/2502.12115)|1400 freelance software engineering tasks from Upwork, valued at $1 million USD total in real-world payouts|[GitHub](https://github.com/openai/SWELancer-Benchmark)|
 |[SWT-Bench](https://arxiv.org/pdf/2406.12952)|SWE-Bench for Test Generation|[Website](https://swtbench.com/), [GitHub](https://github.com/logic-star-ai/SWT-Bench)|
+|[SWE-PolyBench](https://arxiv.org/abs/2504.08703)|2110 instances from 21 repositories, covering Java, JavaScript, TypeScript, and Python.|[Website](https://amazon-science.github.io/SWE-PolyBench/)|
 |[UNITE](https://arxiv.org/pdf/2305.16265.pdf)|This benchmark is composed of 18 publicly available text-to-SQL datasets, containing natural language questions from more than 12 domains, SQL queries from more than 3.9K patterns, and 29K databases.|[data](https://github.com/awslabs/unified-text2sql-benchmark)|
 |[τ-bench](https://arxiv.org/abs/2406.12045)|User-Agent interaction for coding|[GitHub](https://github.com/sierra-research/tau-bench)|
 

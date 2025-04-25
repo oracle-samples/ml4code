@@ -64,6 +64,7 @@ bookCollapseSection: false
 - [Reddit - MCP: True Innovation or Just an Overhyped Trend?](https://www.reddit.com/r/mcp/comments/1jnvziz/mcp_true_innovation_or_just_an_overhyped_trend/)
 - [Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/)
 - [Quick Primer on Model Context Protocol (MCP)](https://www.polarsparc.com/xhtml/MCP.html)
+- [MCPs, Gatekeepers, and the Future of AI](https://iamcharliegraham.substack.com/p/mcps-gatekeepers-and-the-future-of)
 
 ### Server Collections
 
@@ -74,13 +75,13 @@ bookCollapseSection: false
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp)
 - [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)
 - [MCP Proxy](https://github.com/sparfenyuk/mcp-proxy)
+- [Model Context Protocol (MCP) server for OCI Documentation](https://github.com/jin38324/oci-documentation-mcp-server)
 
 ## Tools
 
 - [g-enry](https://github.com/go-enry/go-enry) - Programming language detector
 - [ScanCode Toolkit](https://github.com/nexB/scancode-toolkit) - ScanCode detects licenses, copyrights, dependencies
 - [NVTOP](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-- [Streaming](https://github.com/mosaicml/streaming) - Fast, accurate streaming of training data from cloud storage
 - [Jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [openctx](https://github.com/sourcegraph/openctx) - See contextual info about code from your dev tools, in your editor, code review, and anywhere else you read code.
 

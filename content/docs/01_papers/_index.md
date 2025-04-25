@@ -74,3 +74,4 @@ This section contains summaries of selected research papers. The summaries are m
 |StarVector: Generating Scalable Vector Graphics Code From Images And Text|Rodriguez et al|2025|[arXiv](https://arxiv.org/abs/2312.11556), [Website](https://starvector.github.io/)
 |Type-Constrained Code Generation with Language Models| Mündler et al|2025|[Openreview](https://openreview.net/pdf?id=LYVyioTwvF), [arXiv](https://arxiv.org/pdf/2504.09246)|
 |InCoder: A Generative Model for Code Infilling and Synthesis|Fried et al.|2023|[arXiv](https://arxiv.org/pdf/2204.05999)|
+|Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo|2025|[arXiv](https://arxiv.org/pdf/2504.13139)|
