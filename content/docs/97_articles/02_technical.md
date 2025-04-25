@@ -5,10 +5,17 @@ weight: 2
 ---
 
 # Technical Articles
+
+
 ### 2025
 
 | Date       | Venue                  | Title                                                                                           |
 |------------|------------------------|-------------------------------------------------------------------------------------------------|
+| <span style="white-space: nowrap;">2025-04-22</span> | Varun Raghu | [why i wont be vibe coding anymore](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/) |
+| <span style="white-space: nowrap;">2025-04-25</span> | Amol Kapoor | [Tech things: OpenAI buys Windsurf, Google retains its lead, and where the hell is Apple?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf) |
+| <span style="white-space: nowrap;">2025-04-25</span> | Matthew Sinclair | [Why LLM-Powered Programming is More Mech Suit Than Artificial Human](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) |
+| <span style="white-space: nowrap;">2025-04-23</span> | Matheus Lima | [The Hidden Cost of AI Coding](https://terriblesoftware.org/2025/04/23/the-hidden-cost-of-ai-coding/) |
+| <span style="white-space: nowrap;">2025-04-21</span> | Simon Willison  | [Lazily porting code to a new library version via search](https://simonwillison.net/2025/Apr/21/ai-assisted-search/#lazily-porting-code-to-a-new-library-version-via-search) |
 | <span style="white-space: nowrap;">2025-04-12</span> | Geoffrey Litt | [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) |
 | <span style="white-space: nowrap;">2025-04-11</span> | Dylan Beattie | [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html) |
 | <span style="white-space: nowrap;">2025-04-07</span> | Namanyay| [Why LLMs Get Lost in Large Codebases](https://nmn.gl/blog/ai-understand-senior-developer) |

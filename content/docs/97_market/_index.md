@@ -59,6 +59,7 @@ bookCollapseSection: false
 |[Mentat](https://www.mentat.ai/)| CLI coding assistant |
 |[Mintilfy](https://mintlify.com/)| documentation generation |
 |[MyCoder.ai](https://mycoder.ai/)| CLI coding agent ([GitHub](https://github.com/drivecore/mycoder)) |
+|[Open Codex CLI](https://github.com/codingmoh/open-codex)|CLI coading agent|
 |[Oracle - Code Assist ODA](https://www.oracle.com/uk/application-development/code-assist/)| Coding assistant for VSCode and IntelliJ |
 |[Pear AI](https://trypear.ai/)| Coding  editor with agentic features |
 |[Plandex](https://plandex.ai/)| CLI coding agent for large projects |
@@ -116,15 +117,17 @@ bookCollapseSection: false
 - [lovable](https://lovable.dev/) - Lovable is your superhuman full stack engineer  
 - [Magic Labs](https://magic.dev/) - Large Context Window Software Engineering Models  
 - [Mintlify](https://mintlify.com/) - Public Documentation Generation  
-- [Poolside AI](https://poolside.ai/) - Building next generation AI for software engineering - former GitHub CTO  
+- [Poolside AI](https://poolside.ai/) - Building next generation AI for software engineering  
 - [Qodo AI](https://www.qodo.ai/) - Robust Code Generation
 - [Sourcegraph](https://sourcegraph.com/) - Enterprise Software Development with AI
 - [Reflection AI](https://www.reflection.ai/) - Autonomous Coding
+- [Replit](https://replit.com/) - Build apps and sites with AI
 
 ## Inactive Projects
 
 - [Aide](https://aide.dev/) - [X](https://x.com/skcd42/status/1891864813703209307?s=46)
 - [kite](https://www.kite.com/blog/product/kite-is-saying-farewell/) - interesting insights by the founder, [Open Source artifacts](https://github.com/kiteco)
+- [Machinet](https://www.machinet.net/) - acquired by Zencoder
 - [Melty](https://melty.sh/)
 - [Mutable AI](https://mutable.ai/#features)
 - [OpenAssistant](https://open-assistant.io)
