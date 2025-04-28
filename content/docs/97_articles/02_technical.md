@@ -11,6 +11,7 @@ weight: 2
 
 | Date       | Venue                  | Title                                                                                           |
 |------------|------------------------|-------------------------------------------------------------------------------------------------|
+| <span style="white-space: nowrap;">2025-04-24</span> | Ryan Bell | [From HyperCard to Vibe Coding](https://newsletter.iryanbell.com/p/from-hypercard-to-vibe-coding) |
 | <span style="white-space: nowrap;">2025-04-22</span> | Varun Raghu | [why i wont be vibe coding anymore](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/) |
 | <span style="white-space: nowrap;">2025-04-25</span> | Amol Kapoor | [Tech things: OpenAI buys Windsurf, Google retains its lead, and where the hell is Apple?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf) |
 | <span style="white-space: nowrap;">2025-04-25</span> | Matthew Sinclair | [Why LLM-Powered Programming is More Mech Suit Than Artificial Human](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs) |

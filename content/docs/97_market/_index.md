@@ -75,6 +75,7 @@ bookCollapseSection: false
 |[Tabnine](https://www.tabnine.com/)| Coding agent for various IDEs |
 |[Tessl](https://www.tessl.io/)| Software development platform |
 |[testRigor](https://testrigor.com/)| Test generation |
+|[TmuxAI](https://tmuxai.dev/)| CLI Assistant |
 |[Trae (ByteDance)](https://www.trae.ai/)| Code Editor |
 |[Traycer](https://traycer.ai)| Coding agent for VSCode |
 |[Vibinex](https://vibinex.com/)| Code reviews |
@@ -89,12 +90,12 @@ bookCollapseSection: false
 - [Anthropic AI](https://www.anthropic.com/) - Foundational Models  
 - [cohere](https://cohere.com/) - Foundational Models  
 - [/dev/agents](https://sdsa.ai/) - Agent Operating System  
-- [Inception Labs](https://www.inceptionlabs.ai/)  
+- [Inception Labs](https://www.inceptionlabs.ai/)
 - [Minimax](https://www.minimaxi.com/) - Foundational Models  
 - [Mistral AI](https://mistral.ai/) - Foundational Models  
 - [Ndea](https://ndea.com/) - Frontier Models
 - [OpenAI](https://openai.com/) - Foundational Models
-- [Patronus AI](https://www.patronus.ai/) - Evaluation  
+- [Patronus AI](https://www.patronus.ai/) - Evaluation
 - [Voyage AI](https://www.voyageai.com/) - Embedding Models  
 
 ### Infrastructure
@@ -126,7 +127,7 @@ bookCollapseSection: false
 ## Inactive Projects
 
 - [Aide](https://aide.dev/) - [X](https://x.com/skcd42/status/1891864813703209307?s=46)
-- [kite](https://www.kite.com/blog/product/kite-is-saying-farewell/) - interesting insights by the founder, [Open Source artifacts](https://github.com/kiteco)
+- [kite](https://www.kite.com/blog/product/kite-is-saying-farewell/) - [Open Source artifacts](https://github.com/kiteco)
 - [Machinet](https://www.machinet.net/) - acquired by Zencoder
 - [Melty](https://melty.sh/)
 - [Mutable AI](https://mutable.ai/#features)

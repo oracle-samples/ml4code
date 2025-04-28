@@ -10,6 +10,7 @@ weight: 1
 
 | <span style="white-space: nowrap">Date</span> | Venue          | Title                                                                                           |
 |-----------------------------------------------|----------------|-------------------------------------------------------------------------------------------------|
+| <span style="white-space: nowrap">2025-04-25</span> | TechCrunch | [Anthropic sent a takedown notice to a dev trying to reverse-engineer its coding tool](https://techcrunch.com/2025/04/25/anthropic-sent-a-takedown-notice-to-a-dev-trying-to-reverse-engineer-its-coding-tool/) |
 | <span style="white-space: nowrap">2025-04-25</span> | VentureBeat | [Zencoder buys Machinet to challenge GitHub Copilot as AI coding assistant consolidation accelerates](https://venturebeat.com/ai/zencoder-buys-machinet-to-challenge-github-copilot-as-ai-coding-assistant-consolidation-accelerates/) |
 | <span style="white-space: nowrap">2025-04-23</span> | VentureBeat | [Amazon’s SWE-PolyBench just exposed the dirty secret about your AI coding assistant](https://venturebeat.com/ai/amazon-swe-polybench-just-exposed-the-dirty-secret-about-your-ai-coding-assistant/) |
 | <span style="white-space: nowrap">2025-04-22</span> | TechCrunch | [Why OpenAI wanted to buy Cursor but opted for the fast-growing Windsurf](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/) |
